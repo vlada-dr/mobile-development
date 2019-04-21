@@ -1,0 +1,11 @@
+<resources>
+  <string name="app_name">Lab3</string>
+  <string name="submit_button_name">Write in file</string>
+  <string name="open_file_button_name">Open file</string>
+  <string name="flower_name_label">Flower name</string>
+  <string name="flower_name_placeholder">Rose</string>
+  <string name="color_spinner_label">Flower color</string>
+  <string name="price_range_label">Price</string>
+  <string name="priceRange">Price %1$d – %2$d</string>
+  <string name="backButtonLLabel">Back</string>
+</resources>

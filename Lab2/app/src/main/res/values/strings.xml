@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Lab1</string>
+    <string name="app_name">Lab2</string>
     <string name="submit_button_name">Ok</string>
     <string name="flower_name_label">Flower name</string>
     <string name="flower_name_placeholder">Rose</string>
